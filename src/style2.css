@@ -51,7 +51,6 @@ dt::after{
 dd {
     display: inline; 
     margin: 0;
-    display: block; 
     clear: both; 
     margin-bottom: 15px;
 }
